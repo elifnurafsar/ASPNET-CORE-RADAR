@@ -25,7 +25,7 @@ Program was written in C#, therefore, a special environment for the aforemention
 
 1. Download the app from GitHub Repository 
 2. Open the app in Visual Studio 
-3. Open Microsoft SQL Server Managment Studio
+3. Open Microsoft SQL Server Management Studio
 4. Connect to your local SQL Server
 5. Create a new database CORE
 6. Execute the following queries to create necessary tables
